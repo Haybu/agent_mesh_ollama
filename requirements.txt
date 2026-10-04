@@ -1,0 +1,2 @@
+rsocket==0.4.20
+ollama>=0.6   # optional: only needed when OLLAMA_API_KEY is set
